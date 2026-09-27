@@ -1,0 +1,2 @@
+total_rows,normal_rows,fraud_rows,fraud_rate_pct,amount_mean_all,amount_mean_normal,amount_mean_fraud,amount_median_fraud,amount_max_fraud,time_mean_normal,time_mean_fraud
+10000,9950,50,0.5,92.47,87.11,1159.42,1237.05,1991.64,84954.04,172300.23
